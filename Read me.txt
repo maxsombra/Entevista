@@ -1,0 +1,10 @@
+INstrucciones de uso
+
+
+version de java 1.8
+
+abrir cmd
+
+ir a la ruta donde se encuntra la aplicacion
+ejecutar : java -jar ejercicio.jar
+segir las instrucciones del programa
